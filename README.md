@@ -1,4 +1,5 @@
 ## falsh分区
+
 stm32g031g8 flah共 64k (0x08000000 - 0x08010000)，分成3个区域：Bootloader、APP、Config
 
 区域    | 起始地址| 大小
